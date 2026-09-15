@@ -13,10 +13,10 @@
 
 ## ОТЧЕТ СИСТЕМЫ
 ### Системная информация
-![Fastfetch](./screenshots/Screenshot_2.png)
+![Fastfetch](./screenshots/Screenshot_1.png)
 
 ### Красивый текст
-![Figlet](./screenshots/screen2.png)
+![Figlet](./screenshots/Screenshot_2.png)
 
 ### Сообщение от Cowsay
-![Cowsay](./screenshots/screen3.png)
+![Cowsay](./screenshots\Screenshot_3.png)
