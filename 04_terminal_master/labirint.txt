@@ -1,0 +1,10 @@
+mkdir root_labyrinth
+cd root_labyrinth
+mkdir sector_A
+cd sector_A
+echo Eliseev > secret.txt
+del secret.txt
+cd ..
+mkdir sector_B
+cd sector_B
+echo IS-26-7k > history_log.txt
